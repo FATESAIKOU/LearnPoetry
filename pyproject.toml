@@ -1,0 +1,9 @@
+# ...existing code...
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.100.0"
+uvicorn = "^0.22.0"
+# ...existing code...
+[tool.poetry.dev-dependencies]
+pytest = "^7.0"
+# ...existing code...
